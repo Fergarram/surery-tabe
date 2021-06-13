@@ -58,11 +58,7 @@
 		height: 100%;
 		overflow-y: scroll;
 	}
-	.sidebar-1::-webkit-scrollbar {
-		display: none;
-	}
 	.sidebar-1 {
-		scrollbar-width: none;
 		right: 165px;
 	}
 	.tray {
